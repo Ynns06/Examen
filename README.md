@@ -1,2 +1,0 @@
-# Examen
-examen WFB webshops
